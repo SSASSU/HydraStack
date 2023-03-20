@@ -13,8 +13,7 @@ On-Prem 환경 VM관리 솔루션 개발 프로젝트
 
 
 ## 📝 Requirements  
-<br> 
-Link : [HS-requirements]
+ [Notion Link](https://www.notion.so/ssassu/5c399978779648c08b300dd4ac2eb9ce?v=9f695a332ad24c2fa651a48cc477462e&pvs=4) 
 
 
 <br>
@@ -24,4 +23,3 @@ Link : [HS-requirements]
 ### [GUI?]
 
 <!-- External links -->
-[HS-requirements]: https://www.notion.so/ssassu/5c399978779648c08b300dd4ac2eb9ce?v=9f695a332ad24c2fa651a48cc477462e&pvs=4
